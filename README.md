@@ -7,5 +7,6 @@ Experienced in data analysis, automation processes, and deep learning techniques
 
 Here, I will share some projects that I have undertaken on Kaggle. If you are interested in delving deeper, you can click on the Kaggle links.
 
+[Kaggle Link](https://www.kaggle.com/elvisyananlin/code)
 
-[<img src="images/image.png">](https://www.kaggle.com/elvisyananlin/code)
+[LinkedIn Link](https://www.linkedin.com/in/elvis-lin-6201a9243/)
