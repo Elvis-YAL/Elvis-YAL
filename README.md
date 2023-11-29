@@ -9,4 +9,4 @@ Here, I will share some projects that I have undertaken on Kaggle. If you are in
 
 [Kaggle Link](https://www.kaggle.com/elvisyananlin/code)
 
-[LinkedIn Link](https://www.linkedin.com/in/elvis-lin-6201a9243/)
+[LinkedIn Link](https://www.linkedin.com/in/elvis-lin-yal/)
